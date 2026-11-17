@@ -30,6 +30,12 @@ Projeto acadêmico do curso de **Engenharia de Software da PUC Minas**. O sistem
 | Artefato | Link |
 |---|---|
 | Casos de Uso | [docs/casos-de-uso.md](docs/casos-de-uso.md) |
+| Histórias de Usuário | [docs/historias-de-usuario.md](docs/historias-de-usuario.md) |
+| Diagrama de Casos de Uso | [docs/diagramas/casos-de-uso.png](docs/diagramas/casos-de-uso.png) |
+
+### Diagrama de Casos de Uso
+
+<img src="docs/diagramas/casos-de-uso.png" alt="Diagrama de Casos de Uso" width="800px"/>
 
 ---
 
@@ -37,4 +43,4 @@ Projeto acadêmico do curso de **Engenharia de Software da PUC Minas**. O sistem
 
 | 👤 Nome | :octocat: GitHub |
 |---------|-----------------|
-| Luis | [SEU-USUARIO](https://github.com/SEU-USUARIO) |
+| Luis | [LuisFernandodeSousaDias0](https://github.com/LuisFernandodeSousaDias0) |
