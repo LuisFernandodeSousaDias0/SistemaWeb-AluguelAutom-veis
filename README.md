@@ -32,10 +32,15 @@ Projeto acadêmico do curso de **Engenharia de Software da PUC Minas**. O sistem
 | Casos de Uso | [docs/casos-de-uso.md](docs/casos-de-uso.md) |
 | Histórias de Usuário | [docs/historias-de-usuario.md](docs/historias-de-usuario.md) |
 | Diagrama de Casos de Uso | [docs/diagramas/casos-de-uso.png](docs/diagramas/casos-de-uso.png) |
+| Diagrama de Classes | [docs/diagramas/classes.png](docs/diagramas/classes.png) |
 
 ### Diagrama de Casos de Uso
 
 <img src="docs/diagramas/casos-de-uso.png" alt="Diagrama de Casos de Uso" width="800px"/>
+
+### Diagrama de Classes
+
+<img src="docs/diagramas/classes.png" alt="Diagrama de Classes" width="800px"/>
 
 ---
 
